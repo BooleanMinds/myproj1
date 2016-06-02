@@ -11,6 +11,7 @@ namespace myproj1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Parvez");
+            Console.WriteLine("Checking Fork");
         }
     }
 }
